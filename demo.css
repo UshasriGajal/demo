@@ -1,0 +1,11 @@
+.divStyling{
+    background-color: blue;
+}
+#buttonstyling{
+    background-color: blueviolet;
+    height: 30px;
+    width: 60px;
+    border-radius: 30%;
+    /* border: none */
+    
+}
