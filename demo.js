@@ -1,3 +1,3 @@
 function greeting(){
-    console.log('im from external file')
+    console.log('im from external dev1 file')
 }
